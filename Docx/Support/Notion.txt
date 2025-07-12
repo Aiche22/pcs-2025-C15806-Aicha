@@ -1,0 +1,16 @@
+Notions Maîtrisées et à Approfondir
+
+Notions Déjà Maîtrisées
+•	Syntaxe de base Python : variables, boucles, conditions
+•	Types primitifs : int, float, string, bool
+•	Listes : manipulation de base, indexation
+•	Fonctions : définition et appel simple
+
+Notions à Approfondir
+•	NumPy arrays : différences avec les listes, opérations vectorisées
+•	Gestion mémoire : références vs copies, comportement des objets mutables
+•	Formatage avancé : f-strings avec options de précision
+•	List comprehensions : syntaxe complexe avec conditions multiples
+•	Dictionnaires : méthodes avancées, itération efficace
+•	Debugging : utilisation d'IPython, techniques de débogage
+•	Modules scientifiques : NumPy, SciPy, Matplotlib
